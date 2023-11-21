@@ -1,1 +1,2 @@
-# flower_102
+# Flowers 102 Classification using Neural Networks
+This project focuses on flower recognition using the Oxford Flowers 102 dataset, a challenging task due to the variability and complexity of natural environments. The project investigates into various pre-trained models such as ResNet-50, MobileNetV2, Transformers ViT, K-Shot learning, and Triplet Loss network for flower classification, aiming to contribute to the broader understanding of image classification in natural settings​. Experiments with different architectures like ResNet-50, MobileNetV2, Transformers ViT, K-Shot learning, and Triplet Loss network are detailed.
